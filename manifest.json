@@ -1,0 +1,36 @@
+{
+  "manifest_version": "1.0",
+  "org": "wolever",
+  "repo": "parameterized",
+  "versions": [
+    {
+      "commit": "80cbc497448eef363880bc814bc02684c2d2e70d",
+      "parsed_at": "2026-04-13T12:55:09.824719+00:00",
+      "tag": "v0.8.1",
+      "filetree": "filetree/80cbc497448eef363880bc814bc02684c2d2e70d.nq.gz",
+      "blobs": [
+        "blob/d2385e49a1c40f26d1e9c4c1d2bfce41ed09dbcd.nq.gz",
+        "blob/67a3ccfd05fa9812a848437527ed37db911a610f.nq.gz",
+        "blob/e58a36e52d82b87dd090618a141d8f7a94ba492a.nq.gz",
+        "blob/f98d86544f64e1f87479bba0d6d482e6e8786380.nq.gz",
+        "blob/25ff0f19084c7572c2eca1c1168f0cc4d1032af6.nq.gz",
+        "blob/1139fc4ea2af090cd7b94009d2e6eebc50243587.nq.gz",
+        "blob/969a157459879e678ac09c3c27741dfc3fb51908.nq.gz",
+        "blob/864bb9ed0bf97e34e942989fb1dab2bee1ffdb03.nq.gz",
+        "blob/d0531b989379eb08bcd01bd4bf0cfa007346397b.nq.gz",
+        "blob/55b43e3f58f18ca76ba6e92ec08a5a65980d1adb.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/8b00ddc107476dc80b12b714040d7d942e46eb87.nq.gz",
+        "blob/4da8c05f16518d9e086cd94dd0055b304c32cefa.nq.gz",
+        "blob/5dbb9176075fd35f3f32194edf75706835213791.nq.gz",
+        "blob/5f5224b243fd7fffd460529f0757943ec235b4d9.nq.gz",
+        "blob/216279017da6f737f384fef779bcdee62e19af77.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
